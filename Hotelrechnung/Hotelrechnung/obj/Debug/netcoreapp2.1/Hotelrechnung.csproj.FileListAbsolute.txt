@@ -1,0 +1,11 @@
+C:\Users\Domme\source\repos\Hotelrechnung\Hotelrechnung\bin\Debug\netcoreapp2.1\Hotelrechnung.deps.json
+C:\Users\Domme\source\repos\Hotelrechnung\Hotelrechnung\bin\Debug\netcoreapp2.1\Hotelrechnung.runtimeconfig.json
+C:\Users\Domme\source\repos\Hotelrechnung\Hotelrechnung\bin\Debug\netcoreapp2.1\Hotelrechnung.runtimeconfig.dev.json
+C:\Users\Domme\source\repos\Hotelrechnung\Hotelrechnung\bin\Debug\netcoreapp2.1\Hotelrechnung.dll
+C:\Users\Domme\source\repos\Hotelrechnung\Hotelrechnung\bin\Debug\netcoreapp2.1\Hotelrechnung.pdb
+C:\Users\Domme\source\repos\Hotelrechnung\Hotelrechnung\obj\Debug\netcoreapp2.1\Hotelrechnung.csproj.CoreCompileInputs.cache
+C:\Users\Domme\source\repos\Hotelrechnung\Hotelrechnung\obj\Debug\netcoreapp2.1\Hotelrechnung.AssemblyInfoInputs.cache
+C:\Users\Domme\source\repos\Hotelrechnung\Hotelrechnung\obj\Debug\netcoreapp2.1\Hotelrechnung.AssemblyInfo.cs
+C:\Users\Domme\source\repos\Hotelrechnung\Hotelrechnung\obj\Debug\netcoreapp2.1\Hotelrechnung.dll
+C:\Users\Domme\source\repos\Hotelrechnung\Hotelrechnung\obj\Debug\netcoreapp2.1\Hotelrechnung.pdb
+C:\Users\Domme\source\repos\Hotelrechnung\Hotelrechnung\obj\Debug\netcoreapp2.1\Hotelrechnung.csprojAssemblyReference.cache

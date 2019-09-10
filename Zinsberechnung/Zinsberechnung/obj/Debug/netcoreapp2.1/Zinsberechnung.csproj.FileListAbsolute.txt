@@ -1,0 +1,10 @@
+C:\Users\Domme\source\repos\Zinsberechnung\Zinsberechnung\bin\Debug\netcoreapp2.1\Zinsberechnung.deps.json
+C:\Users\Domme\source\repos\Zinsberechnung\Zinsberechnung\bin\Debug\netcoreapp2.1\Zinsberechnung.runtimeconfig.json
+C:\Users\Domme\source\repos\Zinsberechnung\Zinsberechnung\bin\Debug\netcoreapp2.1\Zinsberechnung.runtimeconfig.dev.json
+C:\Users\Domme\source\repos\Zinsberechnung\Zinsberechnung\bin\Debug\netcoreapp2.1\Zinsberechnung.dll
+C:\Users\Domme\source\repos\Zinsberechnung\Zinsberechnung\bin\Debug\netcoreapp2.1\Zinsberechnung.pdb
+C:\Users\Domme\source\repos\Zinsberechnung\Zinsberechnung\obj\Debug\netcoreapp2.1\Zinsberechnung.csproj.CoreCompileInputs.cache
+C:\Users\Domme\source\repos\Zinsberechnung\Zinsberechnung\obj\Debug\netcoreapp2.1\Zinsberechnung.AssemblyInfoInputs.cache
+C:\Users\Domme\source\repos\Zinsberechnung\Zinsberechnung\obj\Debug\netcoreapp2.1\Zinsberechnung.AssemblyInfo.cs
+C:\Users\Domme\source\repos\Zinsberechnung\Zinsberechnung\obj\Debug\netcoreapp2.1\Zinsberechnung.dll
+C:\Users\Domme\source\repos\Zinsberechnung\Zinsberechnung\obj\Debug\netcoreapp2.1\Zinsberechnung.pdb
