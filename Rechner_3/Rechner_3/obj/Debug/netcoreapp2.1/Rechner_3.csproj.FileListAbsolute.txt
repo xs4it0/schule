@@ -1,0 +1,11 @@
+C:\Users\Domme\source\repos\Rechner_3\Rechner_3\obj\Debug\netcoreapp2.1\Rechner_3.csprojAssemblyReference.cache
+C:\Users\Domme\source\repos\Rechner_3\Rechner_3\obj\Debug\netcoreapp2.1\Rechner_3.csproj.CoreCompileInputs.cache
+C:\Users\Domme\source\repos\Rechner_3\Rechner_3\obj\Debug\netcoreapp2.1\Rechner_3.AssemblyInfoInputs.cache
+C:\Users\Domme\source\repos\Rechner_3\Rechner_3\obj\Debug\netcoreapp2.1\Rechner_3.AssemblyInfo.cs
+C:\Users\Domme\source\repos\Rechner_3\Rechner_3\bin\Debug\netcoreapp2.1\Rechner_3.deps.json
+C:\Users\Domme\source\repos\Rechner_3\Rechner_3\bin\Debug\netcoreapp2.1\Rechner_3.runtimeconfig.json
+C:\Users\Domme\source\repos\Rechner_3\Rechner_3\bin\Debug\netcoreapp2.1\Rechner_3.runtimeconfig.dev.json
+C:\Users\Domme\source\repos\Rechner_3\Rechner_3\bin\Debug\netcoreapp2.1\Rechner_3.dll
+C:\Users\Domme\source\repos\Rechner_3\Rechner_3\bin\Debug\netcoreapp2.1\Rechner_3.pdb
+C:\Users\Domme\source\repos\Rechner_3\Rechner_3\obj\Debug\netcoreapp2.1\Rechner_3.dll
+C:\Users\Domme\source\repos\Rechner_3\Rechner_3\obj\Debug\netcoreapp2.1\Rechner_3.pdb
