@@ -13,77 +13,79 @@ namespace Rechner_3
 	{
 		static void Main(string[] args)
 		{
+			int choose = 0;
 			Console.WriteLine("Welche Rechenoperation möchtest du ausführen?\n");
-			Console.WriteLine("(1) Addition");
-			Console.WriteLine("(2) Subtraktion");
-			Console.WriteLine("(3) Multiplikation");
-			Console.WriteLine("(4) Division");
-			Console.WriteLine("(5) Wurzel ziehen");
-			Console.WriteLine("(6) Potenz berechnen");
-			Console.WriteLine("(7) BONUS: Zwei Zahlen vergleichen\n");
-			int choose = Convert.ToInt32(Console.ReadLine());
+			Console.WriteLine("(1) Addition\n(2) Subtraktion\n(3) Multiplikation\n(4) Division\n(5) Wurzel ziehen\n(6) Potenz berechnen\n(7) BONUS: Zwei Zahlen vergleichen\n");
+			choose = Convert.ToInt32(Console.ReadLine());
 			if (choose <= 0 || choose >= 8)
 			{
 				Console.WriteLine("Es wurden falsche angaben gemacht!");
 			}
 			if (choose == 1)
 			{
+				double Zahl1 = 0, Zahl2 = 0, Ergebnis1 = 0;
 				Console.WriteLine("Gib bitte die erste Zahl ein");
-				double Zahl1 = Convert.ToDouble(Console.ReadLine());
+				Zahl1 = Convert.ToDouble(Console.ReadLine());
 				Console.WriteLine("Gib bitte die zweite Zahl ein");
-				double Zahl2 = Convert.ToDouble(Console.ReadLine());
-				double Ergebnis1 = Zahl1 + Zahl2;
+				Zahl2 = Convert.ToDouble(Console.ReadLine());
+				Ergebnis1 = Zahl1 + Zahl2;
 				Console.WriteLine("\nDas Ergebnis lautet {0}", Ergebnis1);
 			}
 			if (choose == 2)
 			{
+				double Zahl1 = 0, Zahl2 = 0, Ergebnis1 = 0;
 				Console.WriteLine("\nGib bitte die erste Zahl ein");
-				double Zahl1 = Convert.ToDouble(Console.ReadLine());
+				Zahl1 = Convert.ToDouble(Console.ReadLine());
 				Console.WriteLine("Gib bitte die zweite Zahl ein");
-				double Zahl2 = Convert.ToDouble(Console.ReadLine());
-				double Ergebnis1 = Zahl1 - Zahl2;
+				Zahl2 = Convert.ToDouble(Console.ReadLine());
+				Ergebnis1 = Zahl1 - Zahl2;
 				Console.WriteLine("\nDas Ergebnis lautet {0}", Ergebnis1);
 			}
 			if (choose == 3)
 			{
+				double Zahl1 = 0, Zahl2 = 0, Ergebnis1 = 0;
 				Console.WriteLine("\nGib bitte die erste Zahl ein");
-				double Zahl1 = Convert.ToDouble(Console.ReadLine());
+				Zahl1 = Convert.ToDouble(Console.ReadLine());
 				Console.WriteLine("Gib bitte die zweite Zahl ein");
-				double Zahl2 = Convert.ToDouble(Console.ReadLine());
-				double Ergebnis1 = Zahl1 * Zahl2;
+				Zahl2 = Convert.ToDouble(Console.ReadLine());
+				Ergebnis1 = Zahl1 * Zahl2;
 				Console.WriteLine("\nDas Ergebnis lautet {0}", Ergebnis1);
 			}
 			if (choose == 4)
 			{
+				double Zahl1 = 0, Zahl2 = 0, Ergebnis1 = 0;
 				Console.WriteLine("\nGib bitte die erste Zahl ein");
-				double Zahl1 = Convert.ToDouble(Console.ReadLine());
+				Zahl1 = Convert.ToDouble(Console.ReadLine());
 				Console.WriteLine("Gib bitte die zweite Zahl ein");
-				double Zahl2 = Convert.ToDouble(Console.ReadLine());
-				double Ergebnis1 = Zahl1 / Zahl2;
+				Zahl2 = Convert.ToDouble(Console.ReadLine());
+				Ergebnis1 = Zahl1 / Zahl2;
 				Console.WriteLine("\nDas Ergebnis lautet {0}", Ergebnis1);
 			}
 			if (choose == 5)
 			{
+				double Zahl1 = 0, Ergebnis1 = 0;
 				Console.WriteLine("\nAus welcher Zahl möchtest du die Wurzel ziehen?");
-				double Zahl1 = Convert.ToDouble(Console.ReadLine());
-				double Ergebnis1 = Math.Sqrt(Zahl1);
-				Console.WriteLine("\nDie Wurzel aus {0} beträgt {1}", Zahl1, Ergebnis1);
+				Zahl1 = Convert.ToDouble(Console.ReadLine());
+				Ergebnis1 = Math.Sqrt(Zahl1);
+				Console.WriteLine("\nDie Wurzel aus {0} lautet {1}", Zahl1, Ergebnis1);
 			}
 			if (choose == 6)
 			{
-				Console.WriteLine("\nVon welcher Zahl willst du Potenzieren?");
-				double zahl = Convert.ToDouble(Console.ReadLine());
+				double Zahl1 = 0, exponent = 0, Ergebnis = 0;
+				Console.WriteLine("\nWelche Zahl willst du Potenzieren?");
+				Zahl1 = Convert.ToDouble(Console.ReadLine());
 				Console.WriteLine("\nWie hoch soll die Potenz sein?");
-				double exponent = Convert.ToDouble(Console.ReadLine());
-				double Ergebnis = Math.Pow(zahl, exponent);
-				Console.WriteLine("\nDas Ergebnis beträgt {0}.", Ergebnis);
+				exponent = Convert.ToDouble(Console.ReadLine());
+				Ergebnis = Math.Pow(Zahl1, exponent);
+				Console.WriteLine("\nDas Ergebnis ist {0}.", Ergebnis);
 			}
 			if (choose == 7)
 			{
+				double Zahl1 = 0, Zahl2 = 0;
 				Console.WriteLine("\nGib bitte die erste Zahl ein");
-				double Zahl1 = Convert.ToDouble(Console.ReadLine());
+				Zahl1 = Convert.ToDouble(Console.ReadLine());
 				Console.WriteLine("\nGib bitte die zweite Zahl ein");
-				double Zahl2 = Convert.ToDouble(Console.ReadLine());
+				Zahl2 = Convert.ToDouble(Console.ReadLine());
 				if (Zahl1 > Zahl2)
 				{
 					Console.WriteLine("\nDie Zahl {0} ist größer als die Zahl {1}", Zahl1, Zahl2);
