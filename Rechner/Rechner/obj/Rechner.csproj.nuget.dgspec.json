@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Domme\\source\\repos\\Rechner\\Rechner\\Rechner.csproj": {}
+    "C:\\Users\\domin\\Schule\\Rechner\\Rechner\\Rechner.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Domme\\source\\repos\\Rechner\\Rechner\\Rechner.csproj": {
+    "C:\\Users\\domin\\Schule\\Rechner\\Rechner\\Rechner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Domme\\source\\repos\\Rechner\\Rechner\\Rechner.csproj",
+        "projectUniqueName": "C:\\Users\\domin\\Schule\\Rechner\\Rechner\\Rechner.csproj",
         "projectName": "Rechner",
-        "projectPath": "C:\\Users\\Domme\\source\\repos\\Rechner\\Rechner\\Rechner.csproj",
-        "packagesPath": "C:\\Users\\Domme\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Domme\\source\\repos\\Rechner\\Rechner\\obj\\",
+        "projectPath": "C:\\Users\\domin\\Schule\\Rechner\\Rechner\\Rechner.csproj",
+        "packagesPath": "C:\\Users\\domin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\domin\\Schule\\Rechner\\Rechner\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Domme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\domin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
