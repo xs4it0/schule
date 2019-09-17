@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Domme\\Desktop\\schule\\schule\\Hotelrechnung\\Hotelrechnung\\Hotelrechnung.csproj": {}
+    "C:\\Users\\Domme\\source\\repos\\Hotelrechnung_3\\Hotelrechnung_3\\Hotelrechnung_3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Domme\\Desktop\\schule\\schule\\Hotelrechnung\\Hotelrechnung\\Hotelrechnung.csproj": {
+    "C:\\Users\\Domme\\source\\repos\\Hotelrechnung_3\\Hotelrechnung_3\\Hotelrechnung_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Domme\\Desktop\\schule\\schule\\Hotelrechnung\\Hotelrechnung\\Hotelrechnung.csproj",
-        "projectName": "Hotelrechnung",
-        "projectPath": "C:\\Users\\Domme\\Desktop\\schule\\schule\\Hotelrechnung\\Hotelrechnung\\Hotelrechnung.csproj",
+        "projectUniqueName": "C:\\Users\\Domme\\source\\repos\\Hotelrechnung_3\\Hotelrechnung_3\\Hotelrechnung_3.csproj",
+        "projectName": "Hotelrechnung_3",
+        "projectPath": "C:\\Users\\Domme\\source\\repos\\Hotelrechnung_3\\Hotelrechnung_3\\Hotelrechnung_3.csproj",
         "packagesPath": "C:\\Users\\Domme\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Domme\\Desktop\\schule\\schule\\Hotelrechnung\\Hotelrechnung\\obj\\",
+        "outputPath": "C:\\Users\\Domme\\source\\repos\\Hotelrechnung_3\\Hotelrechnung_3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
