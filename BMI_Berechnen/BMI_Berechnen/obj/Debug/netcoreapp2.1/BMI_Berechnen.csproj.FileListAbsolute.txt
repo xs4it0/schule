@@ -1,0 +1,11 @@
+C:\Users\domin\source\repos\BMI_Berechnen\BMI_Berechnen\bin\Debug\netcoreapp2.1\BMI_Berechnen.deps.json
+C:\Users\domin\source\repos\BMI_Berechnen\BMI_Berechnen\bin\Debug\netcoreapp2.1\BMI_Berechnen.runtimeconfig.json
+C:\Users\domin\source\repos\BMI_Berechnen\BMI_Berechnen\bin\Debug\netcoreapp2.1\BMI_Berechnen.runtimeconfig.dev.json
+C:\Users\domin\source\repos\BMI_Berechnen\BMI_Berechnen\bin\Debug\netcoreapp2.1\BMI_Berechnen.dll
+C:\Users\domin\source\repos\BMI_Berechnen\BMI_Berechnen\bin\Debug\netcoreapp2.1\BMI_Berechnen.pdb
+C:\Users\domin\source\repos\BMI_Berechnen\BMI_Berechnen\obj\Debug\netcoreapp2.1\BMI_Berechnen.csprojAssemblyReference.cache
+C:\Users\domin\source\repos\BMI_Berechnen\BMI_Berechnen\obj\Debug\netcoreapp2.1\BMI_Berechnen.csproj.CoreCompileInputs.cache
+C:\Users\domin\source\repos\BMI_Berechnen\BMI_Berechnen\obj\Debug\netcoreapp2.1\BMI_Berechnen.AssemblyInfoInputs.cache
+C:\Users\domin\source\repos\BMI_Berechnen\BMI_Berechnen\obj\Debug\netcoreapp2.1\BMI_Berechnen.AssemblyInfo.cs
+C:\Users\domin\source\repos\BMI_Berechnen\BMI_Berechnen\obj\Debug\netcoreapp2.1\BMI_Berechnen.dll
+C:\Users\domin\source\repos\BMI_Berechnen\BMI_Berechnen\obj\Debug\netcoreapp2.1\BMI_Berechnen.pdb
