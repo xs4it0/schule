@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\domin\\.nuget\\packages\\": {},
+    "C:\\Users\\Domme\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\domin\\Schule\\Rechner_3\\Rechner_3\\Rechner_3.csproj",
+      "projectUniqueName": "C:\\Users\\Domme\\Desktop\\schule\\Rechner_3\\Rechner_3\\Rechner_3.csproj",
       "projectName": "Rechner_3",
-      "projectPath": "C:\\Users\\domin\\Schule\\Rechner_3\\Rechner_3\\Rechner_3.csproj",
-      "packagesPath": "C:\\Users\\domin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\domin\\Schule\\Rechner_3\\Rechner_3\\obj\\",
+      "projectPath": "C:\\Users\\Domme\\Desktop\\schule\\Rechner_3\\Rechner_3\\Rechner_3.csproj",
+      "packagesPath": "C:\\Users\\Domme\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Domme\\Desktop\\schule\\Rechner_3\\Rechner_3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\domin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Domme\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
